@@ -1,1 +1,1 @@
-sql komutları
+sql komutlar
